@@ -1,1 +1,0 @@
-[22-Jan-2014 11:38:41 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/kennethi/public_html/minimal.io/wp-content/themes/minimal2/404.php on line 10
