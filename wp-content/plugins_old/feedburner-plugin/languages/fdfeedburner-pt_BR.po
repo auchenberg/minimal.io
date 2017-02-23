@@ -1,0 +1,77 @@
+# Translation of the WordPress plugin FD Feedburner by Gervásio Antônio.
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# Gervásio Antônio <gdsa32-translation@yahoo.com.br>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FD Feedburner Plugin 1.42\n"
+"Report-Msgid-Bugs-To: John Watson (john@flagrantdisregard.com)\n"
+"POT-Creation-Date: 2010-03-31 12:01-0700\n"
+"PO-Revision-Date: 2010-07-18 22:23-0300\n"
+"Last-Translator: Gervásio Antônio <gdsa32-translation@yahoo.com.br>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+
+#: fdfeedburner.php:43
+#: fdfeedburner.php:44
+#: fdfeedburner.php:120
+msgid "Feedburner Configuration"
+msgstr "Configuração do Feedburner"
+
+#: fdfeedburner.php:116
+msgid "Configuration updated."
+msgstr "Configuração atualizada."
+
+#: fdfeedburner.php:122
+msgid "How does this work?"
+msgstr "Como isso funciona?"
+
+#: fdfeedburner.php:123
+msgid "This plugin automatically redirects all of your existing feeds to Feedburner (including category and tag feeds)."
+msgstr "Este plugin redireciona automaticamente todos os seus feeds existentes para o Feedburner (incluindo feeds de categoria e tag)."
+
+#: fdfeedburner.php:124
+msgid "First go to <a href=\"http://feedburner.com\">Feedburner.com</a> and burn your feed. Enter the URL Feedburner created for you. You may optionally redirect your comments feed using the same procedure. To disable redirection, disable the plugin or erase the URLs."
+msgstr "Primeiro vá até o site <a href=\"http://feedburner.com\">Feedburner.com</a> e crie o seu feed. Digite a URL que o Feedburner criou para você. Você pode redirecionar seu feed de comentários utilizando o mesmo procedimento. Para desativar o redirecionamento, desative o plugin ou exclua as URLs."
+
+#: fdfeedburner.php:125
+msgid "Once you enter URLs your feeds will be redirected automatically and you do not need to take any further action."
+msgstr "Depois que você digitar as URLs, seus feeds serão redirecionados automaticamente e você não precisa mais nada."
+
+#: fdfeedburner.php:125
+msgid "Note that your feeds may not appear to redirect to Feedburner until you add a new post."
+msgstr "Note que o redirecionamento para o Feedburner pode parecer não estar funcionando, até que você adicione um novo post."
+
+#: fdfeedburner.php:128
+msgid "Redirect my feeds here:"
+msgstr "Redirecione meus feeds aqui:"
+
+#: fdfeedburner.php:131
+msgid "Redirect my comments feed here:"
+msgstr "Redirecione meus feeds de comentários aqui:"
+
+#: fdfeedburner.php:134
+msgid "Advanced Options"
+msgstr "Opções Avançadas"
+
+#: fdfeedburner.php:137
+msgid "Do not redirect category or tag feeds"
+msgstr "Não redirecionar feeds de categoria ou tag"
+
+#: fdfeedburner.php:141
+msgid "Append category/tag to URL for category/tag feeds"
+msgstr "Adicionar categoria/tag à URL para os feeds de categoria ou tag"
+
+#: fdfeedburner.php:145
+msgid "Do not redirect search result feeds"
+msgstr "Não redirecionar feeds de resultado da busca"
+
+#: fdfeedburner.php:148
+msgid "Save"
+msgstr "Salvar"
+

@@ -1,0 +1,4 @@
+[07-Apr-2014 06:48:18 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/kennethi/public_html/minimal.io/wp-content/plugins/akismet/akismet.php on line 32
+[12-Jul-2014 15:22:38 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/kennethi/public_html/minimal.io/wp-content/plugins/akismet/akismet.php on line 32
+[31-Jan-2015 04:42:13 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/kennethi/public_html/minimal.io/wp-content/plugins/akismet/akismet.php on line 32
+[31-Jan-2015 09:46:44 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/kennethi/public_html/minimal.io/wp-content/plugins/akismet/akismet.php on line 32
