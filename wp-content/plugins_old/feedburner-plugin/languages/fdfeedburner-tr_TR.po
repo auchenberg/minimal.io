@@ -1,0 +1,81 @@
+# Translation of the WordPress plugin FD Feedburner by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FD Feedburner Plugin 1.42\n"
+"Report-Msgid-Bugs-To: John Watson (john@flagrantdisregard.com)\n"
+"POT-Creation-Date: 2010-03-31 12:01-0700\n"
+"PO-Revision-Date: 2011-08-01 20:32+0200\n"
+"Last-Translator: Semih Yeşilyurt <semih.yesilyurt@gmail.com>\n"
+"Language-Team: WDE <semih.yesilyurt@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: fdfeedburner.php:43
+#: fdfeedburner.php:44
+msgid "Feedburner"
+msgstr ""
+
+#: fdfeedburner.php:120
+msgid "Feedburner Configuration"
+msgstr "Feedburner Yapılandırma"
+
+#: fdfeedburner.php:116
+msgid "Configuration updated."
+msgstr "Yapılandırma güncellendi."
+
+#: fdfeedburner.php:122
+msgid "How does this work?"
+msgstr "Bu nasıl çalışır?"
+
+#: fdfeedburner.php:123
+msgid "This plugin automatically redirects all of your existing feeds to Feedburner (including category and tag feeds)."
+msgstr "Bu eklenti, otomatik olarak tüm beslemeleri (kategori ve etiket beslemeleri de dahil olmak üzere) tümünü Feedburner'e yönlendirir."
+
+#: fdfeedburner.php:124
+msgid "First go to <a href=\"http://feedburner.com\">Feedburner.com</a> and burn your feed. Enter the URL Feedburner created for you. You may optionally redirect your comments feed using the same procedure. To disable redirection, disable the plugin or erase the URLs."
+msgstr "Önce <a href=\"http://feedburner.com\"> Feedburner.com </ a> adresinden siteniz için besleme edinin.Oluşturduğunuz Feedburner URL'sini girin. Isterseniz yorumlar içinde aynı işlemleri uygulayarak beslemelerinizi yönlendirebilirsiniz. Yönlendirmeyi devre dışı bırakmak için, eklentiyi devre dışı bırakın veya URL'leri silin."
+
+#: fdfeedburner.php:125
+msgid "Once you enter URLs your feeds will be redirected automatically and you do not need to take any further action."
+msgstr "Beslemelerini otomatik olarak yönlendirileceksiniz URL'yi girin ve başka bir işlem yapmanıza gerek yok."
+
+#: fdfeedburner.php:125
+msgid "Note that your feeds may not appear to redirect to Feedburner until you add a new post."
+msgstr "Yeni bir yazı ekleyene kadar beslemeleriniz Feedburner yönlendirilmeyebilir."
+
+#: fdfeedburner.php:128
+msgid "Redirect my feeds here:"
+msgstr "Yönlendirilecek besleme adresi:"
+
+#: fdfeedburner.php:131
+msgid "Redirect my comments feed here:"
+msgstr "Yönlendirilecek yorum besleme adesi:"
+
+#: fdfeedburner.php:134
+msgid "Advanced Options"
+msgstr "Gelişmiş Seçenekler"
+
+#: fdfeedburner.php:137
+msgid "Do not redirect category or tag feeds"
+msgstr "Kategori veya etiket beslemeleri yönlendirilsin mi?"
+
+#: fdfeedburner.php:141
+msgid "Append category/tag to URL for category/tag feeds"
+msgstr "Kategori / etiket beslemeleri için URL kategori / etiket şeklinde"
+
+#: fdfeedburner.php:145
+msgid "Do not redirect search result feeds"
+msgstr "Arama sonucu beslemeleri yönlendirsin mi?"
+
+#: fdfeedburner.php:148
+msgid "Save"
+msgstr "Kaydet"
+

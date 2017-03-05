@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FD Feedburner Plugin 1.42\n"
+"Report-Msgid-Bugs-To: John Watson (john@flagrantdisregard.com)\n"
+"POT-Creation-Date: 2010-03-18 11:22+0100\n"
+"PO-Revision-Date: 2010-03-18 11:49+0100\n"
+"Last-Translator: Tóth József <sepp.toth@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+
+#: fdfeedburner_mod.php:40
+#: fdfeedburner_mod.php:115
+msgid "Feedburner Configuration"
+msgstr "Feedburner beállítások"
+
+#: fdfeedburner_mod.php:111
+msgid "Configuration updated."
+msgstr "Beállítások frissítve."
+
+#: fdfeedburner_mod.php:117
+msgid "How does this work?"
+msgstr "Hogyan működik?"
+
+#: fdfeedburner_mod.php:118
+msgid "This plugin automatically redirects all of your existing feeds to Feedburner (including category and tag feeds)."
+msgstr "Ez a bővítmény automatikusan átirányít minden jelenlegi hírfolyamot a Feedburner-hez (kategória és címke hírfolyamot is)."
+
+#: fdfeedburner_mod.php:119
+msgid "First go to <a href=\"http://feedburner.com\">Feedburner.com</a> and burn your feed. Enter the URL Feedburner created for you. You may optionally redirect your comments feed using the same procedure. To disable redirection, disable the plugin or erase the URLs."
+msgstr "Először látogasd meg a <a href=\"http://feedburner.com\">Feedburner.com</a>-ot a hírfolyamodért. Írd be az URL címet amit a Feedburner létrehozott. Lehetőség szerint átirányíthatod a hozzászólás hírfolyamot hasonló módon. Az átirányítás kikapcsolásához deaktiváld a bövítményt, vagy töröld ki az URL-eket."
+
+#: fdfeedburner_mod.php:120
+msgid "Once you enter URLs your feeds will be redirected automatically and you do not need to take any further action."
+msgstr "Miután beírtam az URL-t a hírfolyamaid automatikus átirányításra kerülnek és több teendő nem szükséges."
+
+#: fdfeedburner_mod.php:120
+msgid "Note that your feeds may not appear to redirect to Feedburner until you add a new post."
+msgstr "Megjegyzés: előfordulhat, hogy addig nem jelennek meg a hírfolyamok a Feedburner átirányításban, amíg nincs új bejegyzés hozzáadva."
+
+#: fdfeedburner_mod.php:123
+msgid "Redirect my feeds here:"
+msgstr "Hírfolymok átirányítása ide:"
+
+#: fdfeedburner_mod.php:126
+msgid "Redirect my comments feed here:"
+msgstr "Hozzászólás hírfolyam átirányítása ide:"
+
+#: fdfeedburner_mod.php:129
+msgid "Advanced Options"
+msgstr "Haaldó beállítások"
+
+#: fdfeedburner_mod.php:132
+msgid "Do not redirect category or tag feeds"
+msgstr "Ne irányítsa át a kategória és címke hírfolyamokat"
+
+#: fdfeedburner_mod.php:136
+msgid "Append category/tag to URL for category/tag feeds"
+msgstr "Kategória/címke hozzáadása az URL-hez a kategória/címke hírfolyamoknál"
+
+#: fdfeedburner_mod.php:140
+msgid "Do not redirect search result feeds"
+msgstr "Ne irányítsa át a keresési hírfolyamot"
+
+#: fdfeedburner_mod.php:143
+msgid "Save"
+msgstr "Mentés"
+

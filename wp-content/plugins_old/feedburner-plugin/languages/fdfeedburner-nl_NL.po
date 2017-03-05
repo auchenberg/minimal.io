@@ -1,0 +1,77 @@
+# Translation of the WordPress plugin FD Feedburner by John Watson.
+# Copyright (C) 2010 John Watson
+# This file is distributed under the same license as the  package.
+# John Watson <john@flagrantdisregard.com>, 2010.
+# John Watson <john@flagrantdisregard.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: FD Feedburner Plugin 1.42\n"
+"Report-Msgid-Bugs-To: John Watson (john@flagrantdisregard.com)\n"
+"POT-Creation-Date: 2010-03-31 12:01-0700\n"
+"PO-Revision-Date: 2010-10-05 17:16+0100\n"
+"Last-Translator: Pieter <pieterc@gmail.com>\n"
+"Language-Team: limenet.ch <info@limenet.ch>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+
+#: fdfeedburner.php:43
+#: fdfeedburner.php:44
+#: fdfeedburner.php:120
+msgid "Feedburner Configuration"
+msgstr "Feedburner Configuratie"
+
+#: fdfeedburner.php:116
+msgid "Configuration updated."
+msgstr "Configuratie aangepast."
+
+#: fdfeedburner.php:122
+msgid "How does this work?"
+msgstr "Hoe werkt het?"
+
+#: fdfeedburner.php:123
+msgid "This plugin automatically redirects all of your existing feeds to Feedburner (including category and tag feeds)."
+msgstr "Deze plugin herleidt automatisch alle bestaande feeds naar Feedburner (inclusief de categorie en tag feeds)."
+
+#: fdfeedburner.php:124
+msgid "First go to <a href=\"http://feedburner.com\">Feedburner.com</a> and burn your feed. Enter the URL Feedburner created for you. You may optionally redirect your comments feed using the same procedure. To disable redirection, disable the plugin or erase the URLs."
+msgstr "Ga naar <a href=\"http://feedburner.com\">Feedburner.com</a> en maak uw Feed. Geef de URL die Feedburner voor u heeft aangemaakt. Optioneel kan zelfs de reactie feed gekoppeld worden volgens dezelfde procedure. Om het herleiden ongedaan te maken kan u de plugin uitschakelen of de URL's verwijderen."
+
+#: fdfeedburner.php:125
+msgid "Once you enter URLs your feeds will be redirected automatically and you do not need to take any further action."
+msgstr "Eens de URL's ingegeven zijn zullen de feeds automatisch herleid worden. U hoeft niets anders meer te doen."
+
+#: fdfeedburner.php:125
+msgid "Note that your feeds may not appear to redirect to Feedburner until you add a new post."
+msgstr "Let wel, uw feeds zullen nog niet naar Feedburner herleid worden tot u een nieuw bericht toevoegt."
+
+#: fdfeedburner.php:128
+msgid "Redirect my feeds here:"
+msgstr "Herleid mijn feeds naar:"
+
+#: fdfeedburner.php:131
+msgid "Redirect my comments feed here:"
+msgstr "Herleid mijn reactie feed naar:"
+
+#: fdfeedburner.php:134
+msgid "Advanced Options"
+msgstr "Geavanceerde Opties"
+
+#: fdfeedburner.php:137
+msgid "Do not redirect category or tag feeds"
+msgstr "Herleid geen categorie of tag feeds"
+
+#: fdfeedburner.php:141
+msgid "Append category/tag to URL for category/tag feeds"
+msgstr "Gebruik categorie/tag naar URL voor categorie/tag feeds"
+
+#: fdfeedburner.php:145
+msgid "Do not redirect search result feeds"
+msgstr "Herleid geen zoekresultaten feeds"
+
+#: fdfeedburner.php:148
+msgid "Save"
+msgstr "Opslaan"
+
