@@ -1,10 +1,5 @@
 {
-	"require": {
-    	"php": "^7.1.1"
-  	},
-    "extra": {
-        "heroku": {
-            "nginx-includes": ["nginx.conf"]
-        }
+    "require": {
+        "php": "^5.5"
     }
 }
