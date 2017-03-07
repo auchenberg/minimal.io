@@ -17,8 +17,6 @@
  error_reporting(E_ALL);
  ini_set('display_errors', 1);
 
-define( 'WP_DEBUG', true );
-
 // ** MySQL settings - You can get this info from your web host ** //
 $url = parse_url(getenv('DATABASE_URL'));
 
